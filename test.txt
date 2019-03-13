@@ -1,2 +1,6 @@
 Ejercicio de prueba para SourceTree
+<<<<<<< HEAD
 Editamos el master despues de añadir la nueva rama y editarla
+=======
+Nueva rama
+>>>>>>> branch1
